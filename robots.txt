@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /studio-editor.html
+
+Sitemap: https://ejesira.design/sitemap.xml
